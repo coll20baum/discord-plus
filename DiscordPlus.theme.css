@@ -1,5 +1,5 @@
 /**
- * @name Discord+
+ * @name Colltheme
  * @author PlusInsta
  * @authorId 309931975102300160
  * @authorLink https://plusinsta.xyz
@@ -67,7 +67,7 @@
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
    UI radius must be in pixels, otherwise things break. */
-  --dplus-radius-ui: 0px;
+  --dplus-radius-ui: 1px;
   --dplus-radius-avatar: 50%;
   --dplus-radius-server: 50%;
 
@@ -80,12 +80,12 @@ Set avatar/server radius to 50% to make them circular.
 /* Size of user and server icons */
 --dplus-icon-avatar-chat: 35px;
 --dplus-icon-avatar-list: 32px;
---dplus-icon-avatar-profile: 80px;
+--dplus-icon-avatar-profile: 60px;
 
 --dplus-icon-server-sidebar: 48px;
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://i.imgur.com/YgMaCQu.png);
+--dplus-icon-home-dark: url(https://i.imgur.com/h06qhha.png);
 --dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
 }
